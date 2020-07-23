@@ -1,0 +1,48 @@
+// Vehicle \\
+
+Nehr_PickupLada
+Nehr_PickupLada_Simple
+Nehr_PickupLada_Police
+Nehr_PickupLada_Fire
+
+
+// Parts \\
+
+Nehr_PickupLadadoors_driver
+Nehr_PickupLadadoors_codriver
+Nehr_PickupLadahood
+Nehr_PickupLadatrunk
+Nehr_PickupLadaWheel
+Nehr_PickupLadaWheel
+Nehr_PickupLadaWheel
+Nehr_PickupLadaWheel
+
+Nehr_PickupLadadoors_driver_Police
+Nehr_PickupLadadoors_codriver_Police
+Nehr_PickupLadahood_Police
+Nehr_PickupLadatrunk_Police
+
+Nehr_PickupLadadoors_driver_Fire
+Nehr_PickupLadadoors_codriver_Fire
+Nehr_PickupLadahood_Fire
+
+// Required Parts \\
+
+CarRadiator // With Watter
+CarBattery
+SparkPlug
+Fuel
+
+// Attachement List Nehr_PickupLada \\
+
+2 Barrel Slot
+1 SeaChest Slot
+1 WoddenCrate Slot
+2 Jerrican Slot
+1 SpareWheel Slot
+
+// Attachement List Nehr_PickupLada_Simple \\
+
+1 WoddenCrate Slot
+2 Jerrican Slot
+1 SpareWheel Slot
