@@ -4,6 +4,12 @@ Nehr_PickupLada
 Nehr_PickupLada_Simple
 Nehr_PickupLada_Police
 Nehr_PickupLada_Fire
+Nehr_PickupLada_Green
+Nehr_PickupLada_Blue
+Nehr_PickupLada_White
+Nehr_PickupLada_Toxic
+Nehr_PickupLada_Toxic_Blue
+Nehr_PickupLada_Toxic_Green
 
 
 // Parts \\
@@ -25,6 +31,39 @@ Nehr_PickupLadatrunk_Police
 Nehr_PickupLadadoors_driver_Fire
 Nehr_PickupLadadoors_codriver_Fire
 Nehr_PickupLadahood_Fire
+
+Nehr_PickupLadadoors_driver_Green
+Nehr_PickupLadadoors_codriver_Green
+Nehr_PickupLadahood_Green
+Nehr_PickupLadatrunk_Green
+
+Nehr_PickupLadadoors_driver_Blue
+Nehr_PickupLadadoors_codriver_Blue
+Nehr_PickupLadahood_Blue
+Nehr_PickupLadatrunk_Blue
+
+Nehr_PickupLadadoors_driver_White
+Nehr_PickupLadadoors_codriver_White
+Nehr_PickupLadahood_White
+Nehr_PickupLadatrunk_White
+
+
+Nehr_PickupLadadoors_driver_Toxic
+Nehr_PickupLadadoors_codriver_Toxic
+Nehr_PickupLadahood_Toxic
+Nehr_PickupLadatrunk_Toxic
+
+
+Nehr_PickupLadadoors_driver_Toxic_Green
+Nehr_PickupLadadoors_codriver_Toxic_Green
+Nehr_PickupLadahood_Toxic_Green
+Nehr_PickupLadatrunk_Toxic_Green
+
+
+Nehr_PickupLadadoors_driver_Toxic_Blue
+Nehr_PickupLadadoors_codriver_Toxic_Blue
+Nehr_PickupLadahood_Toxic_Blue
+Nehr_PickupLadatrunk_Toxic_Blue
 
 // Required Parts \\
 
