@@ -31,6 +31,12 @@
         <active>1</active>
         <children> 
             <child lootmax="0" lootmin="0" max="8" min="3" type="Nehr_PickupLada"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_Toxic"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_Toxic_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_Toxic_Green"/>
         </children>
     </event>
     </event>
