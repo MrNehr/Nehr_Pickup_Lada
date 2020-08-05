@@ -1,4 +1,4 @@
-<type name="Nehr_PickupLada_Simple">
+	<type name="Nehr_PickupLada_Simple">
 		<attachments chance="1.00">
 			<item name="Nehr_PickupLadaWheel" chance="0.80" />
 		</attachments>
@@ -187,5 +187,305 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Nehr_PickupLadahood_Fire" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Blue">
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_driver_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_codriver_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadahood_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadatrunk_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Green">
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_driver_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_codriver_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadahood_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadatrunk_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_White">
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_driver_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_codriver_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadahood_White" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadatrunk_White" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Toxic">
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_driver_Toxic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_codriver_Toxic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadahood_Toxic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadatrunk_Toxic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Toxic_Blue">
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_driver_Toxic_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_codriver_Toxic_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadahood_Toxic_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadatrunk_Toxic_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Toxic_Green">
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadaWheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_driver_Toxic_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadadoors_codriver_Toxic_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadahood_Toxic_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Nehr_PickupLadatrunk_Toxic_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="0.20" />
 		</attachments>
 	</type>
