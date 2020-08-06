@@ -1,5 +1,4 @@
-    </event>
-        <event name="VehicleNehr_PickupLada_Simple">
+    <event name="VehicleNehr_PickupLada_Simple">
         <nominal>8</nominal>
         <min>7</min>
         <max>13</max>
