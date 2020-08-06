@@ -38,8 +38,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Nehr_PickupLada_Toxic_Green"/>
         </children>
     </event>
-    </event>
-        <event name="VehicleNehr_PickupLada_Police">
+    <event name="VehicleNehr_PickupLada_Police">
         <nominal>8</nominal>
         <min>7</min>
         <max>16</max>
