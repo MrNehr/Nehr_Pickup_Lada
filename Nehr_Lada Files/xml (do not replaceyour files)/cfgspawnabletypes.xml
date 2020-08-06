@@ -162,9 +162,6 @@
 			<item name="Nehr_PickupLadaWheel" chance="0.80" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Nehr_PickupLadaWheel" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
