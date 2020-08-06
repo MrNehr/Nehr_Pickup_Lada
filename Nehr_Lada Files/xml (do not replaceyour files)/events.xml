@@ -1,7 +1,7 @@
     <event name="VehicleNehr_PickupLada_Simple">
-        <nominal>8</nominal>
-        <min>7</min>
-        <max>13</max>
+        <nominal>6</nominal>
+        <min>4</min>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -16,9 +16,9 @@
         </children>
     </event>
     <event name="VehicleNehr_PickupLada">
-        <nominal>4</nominal>
-        <min>3</min>
-        <max>8</max>
+        <nominal>16</nominal>
+        <min>13</min>
+        <max>19</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
