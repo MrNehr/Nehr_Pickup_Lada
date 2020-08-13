@@ -2,6 +2,8 @@ TRADER SHOP
 -------------------
 		Nehr_PickupLada, 		V, 		256000, 10000
 		Nehr_PickupLada_Simple, 	V, 		200000, 10000
+		Nehr_PickupLada_Simple_Blue, 	V, 		200000, 10000
+		Nehr_PickupLada_Simple_Green, 	V, 		200000, 10000
 		Nehr_PickupLada_Police, 	V, 		200000, 10000
 		Nehr_PickupLada_Fire, 		V, 		200000, 10000
 		Nehr_PickupLada_Green, 		V, 		256000, 10000
@@ -58,6 +60,36 @@ __________
 	Nehr_PickupLadadoors_codriver
 	Nehr_PickupLadahood
 	Nehr_PickupLadatrunk
+	Nehr_PickupLadaWheel
+	Nehr_PickupLadaWheel
+	Nehr_PickupLadaWheel
+	Nehr_PickupLadaWheel
+	CarRadiator
+	CarBattery
+	SparkPlug
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts> Nehr_PickupLada_Simple_Green
+	Nehr_PickupLadadoors_driver_Green
+	Nehr_PickupLadadoors_codriver_Green
+	Nehr_PickupLadahood_Green
+	Nehr_PickupLadatrunk_Green
+	Nehr_PickupLadaWheel
+	Nehr_PickupLadaWheel
+	Nehr_PickupLadaWheel
+	Nehr_PickupLadaWheel
+	CarRadiator
+	CarBattery
+	SparkPlug
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts> Nehr_PickupLada_Simple_Blue
+	Nehr_PickupLadadoors_driver_Blue
+	Nehr_PickupLadadoors_codriver_Blue
+	Nehr_PickupLadahood_Blue
+	Nehr_PickupLadatrunk_Blue
 	Nehr_PickupLadaWheel
 	Nehr_PickupLadaWheel
 	Nehr_PickupLadaWheel
