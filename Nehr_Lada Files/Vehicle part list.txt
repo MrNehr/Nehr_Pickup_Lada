@@ -2,6 +2,8 @@
 
 Nehr_PickupLada
 Nehr_PickupLada_Simple
+Nehr_PickupLada_Simple_Green
+Nehr_PickupLada_Simple_Blue
 Nehr_PickupLada_Police
 Nehr_PickupLada_Fire
 Nehr_PickupLada_Green
