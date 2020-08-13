@@ -12,7 +12,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children> 
-            <child lootmax="0" lootmin="0" max="13" min="7" type="Nehr_PickupLada_Simple"/>
+            <child lootmax="0" lootmin="0" max="8" min="2" type="Nehr_PickupLada_Simple"/>
+            <child lootmax="0" lootmin="0" max="8" min="1" type="Nehr_PickupLada_Simple_Green"/>
+            <child lootmax="0" lootmin="0" max="8" min="1" type="Nehr_PickupLada_Simple_Blue"/>
         </children>
     </event>
     <event name="VehicleNehr_PickupLada">
